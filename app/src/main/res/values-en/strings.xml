@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MOVIES</string>
+    <string name="title_Movies">MOVIES</string>
+    <string name="title_tvshows">TV SHOWS</string>
+    <string name="title_favorite">FAVORITE</string>
+    <string name="change_language">Change Language Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_movie">Title</string>
+    <string name="date_release_movie">Release</string>
+    <string name="user_score_movie">User Score</string>
+    <string name="activity_detail">Movie Detail</string>
+    <string name="crew_movie">Crew</string>
+    <string name="director_movie">Director</string>
+    <string name="writer_movie">Writer</string>
+    <string name="overview_movie">Overview</string>
+    <string name="tvshow_activity_detail">Tv Shows Detail</string>
+    <string name="tvshow_title">Title</string>
+    <string name="tvshow_date_release">Release</string>
+    <string name="tvshow_user_score">User Score</string>
+    <string name="tvshow_umum">Information</string>
+    <string name="tvshow_network">Network</string>
+    <string name="tvshow_bahasa_ucapan">Language</string>
+    <string name="tvshow_jenis">Type</string>
+    <string name="tvshow_durasi">Runtime</string>
+    <string name="tvshow_genre">Genre</string>
+    <string name="popularity_movie">Popularity</string>
+    <string name="tvshow_popularity">Popularity</string>
+    <string name="chosen">You choose </string>
+    <string name="favorite_menu">Favorite</string>
+    <string name="data_sudah_ada">data already exists</string>
+    <string name="data_boleh_masuk">Successfully added to favorites</string>
+    <string name="dialog_movie_title">Delete Film</string>
+    <string name="dialog_movie_massage">
+Are you sure you want to delete this item?</string>
+    <string name="dialog_tvshow_title">Delete Tvshow</string>
+    <string name="dialog_tvshow_massage">Are you sure you want to delete this item?</string>
+    <string name="ya">yes</string>
+    <string name="tidak">no</string>
+
+
+</resources>

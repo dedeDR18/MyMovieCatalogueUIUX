@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MOVIES</string>
+    <string name="title_Movies">FILM</string>
+    <string name="title_tvshows">ACARA TV</string>
+    <string name="title_favorite">FAVORIT</string>
+    <string name="change_language">Pengaturan Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_movie">Judul Film</string>
+    <string name="date_release_movie">Informasi Rilisan</string>
+    <string name="user_score_movie">Skor Pengguna</string>
+    <string name="activity_detail">Detail Film</string>
+    <string name="crew_movie">Kru</string>
+    <string name="director_movie">Sutradara</string>
+    <string name="writer_movie">Penulis Cerita</string>
+    <string name="overview_movie">Kilasan Singkat</string>
+    <string name="tvshow_activity_detail">Detail Acara TV</string>
+    <string name="tvshow_title">Judul Acara</string>
+    <string name="tvshow_date_release">Informasi Rilisan</string>
+    <string name="tvshow_user_score">Skor Pengguna</string>
+    <string name="tvshow_umum">Informasi</string>
+    <string name="tvshow_network">Jaringan</string>
+    <string name="tvshow_bahasa_ucapan">Bahasa Ucapan</string>
+    <string name="tvshow_jenis">Jenis</string>
+    <string name="tvshow_durasi">Durasi</string>
+    <string name="tvshow_genre">Aliran</string>
+    <string name="popularity_movie">Popularitas</string>
+    <string name="tvshow_popularity">Popularitas</string>
+    <string name="chosen">Kamu memilih </string>
+    <string name="favorite_menu">Favorite</string>
+    <string name="data_sudah_ada">Data Sudah Ada Dalam Daftar</string>
+    <string name="data_boleh_masuk">Berhasil Menambahkan ke Favorit</string>
+    <string name="dialog_movie_title">Hapus Film</string>
+    <string name="dialog_movie_massage">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="dialog_tvshow_title">Hapus Tvshow</string>
+    <string name="dialog_tvshow_massage">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="ya">ya</string>
+    <string name="tidak">tidak</string>
+
+
+</resources>
